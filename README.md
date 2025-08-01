@@ -16,22 +16,6 @@ This project demonstrates how to deploy a monitored EC2 instance using **Terrafo
 
 ---
 
-## Project Structure
-
-```
-
-aws-ec2-monitoring-alerts/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── terraform.tfvars
-├── stress-cpu.sh
-└── README.md
-
-````
-
----
-
 ## Setup Instructions
 
 ### Step 1: Clone the Repo
